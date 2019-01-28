@@ -3,3 +3,10 @@
   background-image: url("./images/honey-948452_1920.jpg");
 
 }
+#title {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 100px;
+  color: rgb(241, 225, 4);
+  text-shadow: 2px 2px #3d3701;
+
+}
